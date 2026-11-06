@@ -8,6 +8,6 @@ A Proseminar II creature concept developed through habitat and anatomy sketches,
 - `model/variable_gravity_creature.stl` — print-ready mesh.
 - `model/VariableGravityCreature.blend` — Blender working file.
 
-The 3D work used AI-generated starting geometry (see the source files in the working directory). This repository presents the design concept, subsequent model refinement, printing, and physical finishing; it does not claim the mesh was sculpted wholly by hand. The locomotion diagrams are speculative designs, not physical tests of movement.
+The 3D work used AI-generated starting geometry during development. The original generated source file is not included in this curated repository. This repository presents the design concept, subsequent model refinement, printing, and physical finishing; it does not claim the mesh was sculpted wholly by hand. The locomotion diagrams are speculative designs, not physical tests of movement.
 
 Large model files are included for inspection and re-printing. Check scale and supports for your printer before fabrication.
